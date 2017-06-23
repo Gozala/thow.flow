@@ -1,4 +1,4 @@
-# throw.flow [![version][package.icon]][package] [![Build Status][travis.icon]][travis] [![styled with prettier][prettier.icon]][prettier] [![Gitter][gitter.icon]][gitter.icon]
+# throw.flow [![version][package.icon]][package] [![Build Status][travis.icon]][travis] [![styled with prettier][prettier.icon]][prettier]
 
 throw expression as a function
 
