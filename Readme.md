@@ -41,14 +41,9 @@ crash(new Error("Boom")) // => Error: Boom
 Returns **output** 
 
 
-[package]: https://npmjs.org/package/reflex
-
-[package.icon]: https://img.shields.io/npm/v/reflex.svg?style=flat
-
-[travis]: https://travis-ci.org/Gozala/reflex
-
-[travis.icon]: https://img.shields.io/travis/Gozala/reflex.svg?style=flat
-
+[package]: https://npmjs.org/package/throw.flow
+[package.icon]: https://img.shields.io/npm/v/throw.flow.svg?style=flat
+[travis]: https://travis-ci.org/Gozala/throw.flow
+[travis.icon]: https://img.shields.io/travis/Gozala/throw.flow.svg?style=flat
 [prettier.icon]: https://img.shields.io/badge/styled_with-prettier-ff69b4.svg
-
 [prettier]: https://github.com/prettier/prettier
