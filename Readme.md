@@ -2,18 +2,6 @@
 
 throw expression as a function
 
-# Install
-
-```sh
-yarn add throw.flow --save
-```
-
-or with npm
-
-```sh
-npm install throw.flow --save
-```
-
 # Import
 
 ```js
@@ -40,10 +28,26 @@ crash(new Error("Boom")) // => Error: Boom
 
 Returns **output** 
 
+# Install
+
+```sh
+yarn add throw.flow --save
+```
+
+or with npm
+
+```sh
+npm install throw.flow --save
+```
 
 [package]: https://npmjs.org/package/throw.flow
+
 [package.icon]: https://img.shields.io/npm/v/throw.flow.svg?style=flat
+
 [travis]: https://travis-ci.org/Gozala/throw.flow
+
 [travis.icon]: https://img.shields.io/travis/Gozala/throw.flow.svg?style=flat
+
 [prettier.icon]: https://img.shields.io/badge/styled_with-prettier-ff69b4.svg
+
 [prettier]: https://github.com/prettier/prettier
